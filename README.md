@@ -35,3 +35,13 @@ List any software or dependencies that need to be installed.
 
    ```bash
    git clone https://github.com/Ashutosh-Gole123/Portfolio.git
+
+2. Install all required packages:
+
+   ```bash
+   npm install
+
+3. Run this app:
+
+   ```bash
+   npm run dev
