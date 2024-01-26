@@ -1,30 +1,37 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+# My Portfolio App
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+This is a simple portfolio web application built using Next.js.
 
-## What you will learn
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+## Overview
 
-## Important
+This is my portfolio which included all my projects, experince, using this site one can connect with me by LinkedIn, Github, Email and I also provided my CV 
 
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
+## Features
 
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+List the main features of your portfolio app.
 
-## Setup
+- I have implemented next,js routing
+- I have used Framer Motion
+- I have implemented Email functionality
+- Full Responsive on any device
+- Light/Dark theme available
+- Scrolling effect for all sections
 
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+## Getting Started
+
+Provide instructions on how to set up the project locally.
+
+### Prerequisites
+
+List any software or dependencies that need to be installed.
+
+- Node.js
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Ashutosh-Gole123/Portfolio.git
