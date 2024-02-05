@@ -65,32 +65,40 @@ export const projectsData = [
   {
     title: "E-Commerce Dashboard",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "First project on HTML CSS and Javascript and make beutiful UI for E-commerce website.",
     tags: ["HTMl","CSS","Javascript"],
     imageUrl: E_Commerce,
+    links: "https://github.com/Ashutosh-Gole123/Dashboard",
   },
-  {
-    title: "MSCS Dashboard",
-    description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React","Python","Visualization","Data analytics","Firebase Hosting"],
-    imageUrl: Dashboard,
-  },
-  
   {
     title: "ChatApp",
     description:
       "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
     tags: ["React", "Firebase", "Material UI", "Redux", "Google Auth","Firebase Hosting"],
     imageUrl: ChatApp,
+    links: "https://chatproject-7cf17.web.app/",
+
   },
+  {
+    title: "MSCS Dashboard",
+    description:
+      "Hackathon where they provide some data and I need to manipulate the data and come with visualizations then make frontend for project.",
+    tags: ["React","Python","Visualization","Data analytics","Firebase Hosting"],
+    imageUrl: Dashboard,
+    links: "http://dashboard-f7c00.web.app/",
+
+  },
+  
+  
 
   {
     title: "Survey",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+      "A web app similar like Google forms where we can make forms and publish it to take survey of the users and visualize that data.",
     tags: ["React","Visualization","Google Auth","Firebase","Firebase Hosting"],
     imageUrl: Survey,
+    links: "https://sureway-17523.web.app/",
+
   },
   
 ] as const;
